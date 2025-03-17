@@ -1,3 +1,31 @@
+# 🛒 My Shopping App
+
+A simple shopping application built with **React.js, TypeScript, Tailwind CSS, ShadCN, and React Query**. The app fetches product data from the Fake Store API and allows users to add items to a cart.
+
+## 🚀 Features
+- 📦 **Product Listing** - Displays products fetched from an API.
+- 🛒 **Cart Functionality** - Add, update, and remove products in the cart.
+- 💾 **Persistent Cart** - Cart state is saved even after reloading the page.
+- 🎨 **Styled with Tailwind CSS & ShadCN Components** for a modern UI.
+
+## 🛠️ Tech Stack
+- **Frontend:** React.js, TypeScript, Vite
+- **Styling:** Tailwind CSS, ShadCN
+- **State Management:** React Context + React Query
+- **API:** Fake Store API
+
+## 📦 Installation
+Clone the repository and install dependencies:
+```sh
+git clone https://github.com/purvawebdev/my-shopping-app.git
+cd my-shopping-app
+npm install
+```
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
